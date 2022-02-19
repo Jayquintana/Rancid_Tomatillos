@@ -1,6 +1,10 @@
 # Rancid Tomatillos
 A Movie application, tottally *not* IMDB, or Rotton Tomatoes
 
+
+![App Demo](https://github.com/Jayquintana/Rancid_Tomatillos/blob/main/Screen%20Recording%202022-02-16%20at%2011.40.31%20PM.mov)
+
+
 ---
 
 [Summary](#summary) |
