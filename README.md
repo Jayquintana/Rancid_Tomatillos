@@ -2,7 +2,7 @@
 A Movie application, tottally *not* IMDB, or Rotton Tomatoes
 
 
-![App Demo](https://github.com/Jayquintana/Rancid_Tomatillos/blob/main/tomo%20video%20(1).gif)
+![App Demo](https://vercel.com/jayquintana/rancid-tomatillos/2R2REwzuzZL2XD36YcRBAL1xXwiX)
 
 
 ---
