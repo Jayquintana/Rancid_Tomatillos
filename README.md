@@ -1,8 +1,10 @@
 # Rancid Tomatillos
 A Movie application, tottally *not* IMDB, or Rotton Tomatoes
 
+### Try It Out
+[Our website](https://rancid-tomatillos-jayquintana.vercel.app/)
 
-![App Demo](https://vercel.com/jayquintana/rancid-tomatillos/2R2REwzuzZL2XD36YcRBAL1xXwiX)
+![App Demo](https://github.com/Jayquintana/Rancid_Tomatillos/blob/main/tomo%20video%20(1).gif)
 
 
 ---
